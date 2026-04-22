@@ -39,7 +39,7 @@
 <div align="center">
 
 <!-- Spotify Stuff -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vu79g3i6d2et0gvlnt08v42uw&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ojfx72b5oz6qtnsj3eglzmmlym&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ojfx72b5oz6qtnsj3eglzmmlym&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=00ff00)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ojfx72b5oz6qtnsj3eglzmmlym&redirect=true)
 
 [![Last.fm](https://img.shields.io/badge/coudleRose-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007)](https://www.last.fm/user/coudleRose)
 <!-- LastFM Scrobbles -->
