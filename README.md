@@ -41,9 +41,9 @@
 <!-- Spotify Stuff -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ojfx72b5oz6qtnsj3eglzmmlym&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=00ff00)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ojfx72b5oz6qtnsj3eglzmmlym&redirect=true)
 
-[![Last.fm](https://img.shields.io/badge/coudleRose-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007)](https://www.last.fm/user/coudleRose)
+[![Last.fm](https://img.shields.io/badge/Indanana-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007)](https://www.last.fm/user/Indanana)
 <!-- LastFM Scrobbles -->
-[![LastFM](https://angga-lastfm.vercel.app/api?user=coudlerose&count=3&width=480)](https://www.last.fm/user/coudleRose)
+[![LastFM](https://angga-lastfm.vercel.app/api?user=Indanana&count=3&width=480)](https://www.last.fm/user/Indanana)
 
 </div>
 
