@@ -9,20 +9,11 @@
   </picture>
 </div>
 <p align="center">
-<a href="https://www.twitter.com/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23000000?style=flat&logo=X&logoSize=auto" /></a>
-<a href="https://bsky.app/profile/coudlerose.bsky.social"> <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-%231185FE?style=flat&logo=bluesky&logoColor=white&logoSize=auto" /></a>
-<a href="https://www.threads.net/@coudlerose"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
-<a href="https://linktr.ee/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Linktr.ee-%2343E55E?style=flat&logo=linktree&logoColor=white&logoSize=auto" /></a>
-<a href="https://facebook.com/coudlerose"> <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%230866FF?style=flat&logo=facebook&logoColor=%23FFFFFF&logoSize=auto" /></a>
-<a href="https://www.instagram.com/coudlerose"> <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23FF0069?style=flat&logo=instagram&logoColor=white&logoSize=auto" /></a>
-<a href="https://www.behance.net/min69u"><img alt="Static Badge" src="https://img.shields.io/badge/Behance-%231769FF?style=flat&logo=behance&logoColor=white&logoSize=auto" /></a>
-<a href="https://open.spotify.com/user/vu79g3i6d2et0gvlnt08v42uw"><img alt="Static Badge" src="https://img.shields.io/badge/Spotify%20-%20%231ED760?style=flat&logo=spotify&logoColor=%23FFFFFF&logoSize=auto" /></a>
-<a href="https://anilist.co/user/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/AnimeList-%2302A9FF?style=flat&logo=anilist&logoColor=white" /></a>
-<a href="https://sourceforge.net/projects/gengkapak"><img alt="Static Badge" src="https://img.shields.io/badge/Sourceforge-%23FF6600?style=flat&logo=sourceforge&logoColor=white" /></a>
-<a href="https://patreon.com/coudleRose"><img alt="Static Badge" src="https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white&logoSize=auto" /></a>
-<a href="https://paypal.me/assdolken?country.x=ID&locale.x=id_ID"><img alt="Static Badge" src="https://img.shields.io/badge/Paypal-%23003087?style=flat&logo=paypal&logoColor=white&logoSize=auto" /></a>
-<a href="https://ko-fi.com/phonegraphy"><img alt="Static Badge" src="https://img.shields.io/badge/Ko--Fi-%23FF6433?style=flat&logo=kofi&logoColor=white&logoSize=auto" /></a>
-<a href="https://www.buymeacoffee.com/min69u"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px" /></a><br>
+<a href="https://www.twitter.com/kacang_ov"> <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23000000?style=flat&logo=X&logoSize=auto" /></a>
+<a href="https://www.threads.net/@indanafaiqebitiya"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
+<a href="https://www.facebook.com/suko.jati.39> <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%230866FF?style=flat&logo=facebook&logoColor=%23FFFFFF&logoSize=auto" /></a>
+<a href="https://www.instagram.com/indanafaiqebitiya"> <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23FF0069?style=flat&logo=instagram&logoColor=white&logoSize=auto" /></a>
+<a href="https://open.spotify.com/user/31ojfx72b5oz6qtnsj3eglzmmlym"><img alt="Static Badge" src="https://img.shields.io/badge/Spotify%20-%20%231ED760?style=flat&logo=spotify&logoColor=%23FFFFFF&logoSize=auto" /></a>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=min69u"> <img src="https://visitor-badge.laobi.icu/badge?page_id=min69u" /></a></p>
 
 ---
